@@ -5,5 +5,5 @@ int main()
 {
     print("hello world");
     print("command to test pull");
-    return 0;
+    print("this code is created in local repo") return 0;
 }
